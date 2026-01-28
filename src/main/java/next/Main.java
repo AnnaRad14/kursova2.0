@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String correctPassword = "555";
+        String correctPassword = "55 5";
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введіть пароль: ");
